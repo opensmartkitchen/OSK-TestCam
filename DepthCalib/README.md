@@ -25,4 +25,4 @@ The [eLinux Wiki](https://elinux.org/Rpi_Camera_Module#Technical_Parameters_.28v
 ## Emperical Results
 By measuring the distance between the camera and the calibrated target, we determined that the camera has a view angle of ~45 degrees, which is close enough to verify the 48.8 degrees in the spec
 
-![Calibration Test](IMG_9740.png)]
+![Calibration Test](IMG_9740.png)
